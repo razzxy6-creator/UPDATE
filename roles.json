@@ -1,11 +1,13 @@
 {
-   "developer"    : [],
-   "eksekutif"    : [],
-   "tangan_kanan" : [],
-   "owner"        : [],
-   "moderator"    : [],
-   "partner"      : [],
-   "reseller"     : [],
-   "full_up"      : [],     
-   "usage"        : {}     
+  "developer": [
+    "7674822344"
+  ],
+  "eksekutif": [],
+  "tangan_kanan": [],
+  "owner": [],
+  "moderator": [],
+  "partner": [],
+  "reseller": [],
+  "full_up": [],
+  "usage": {}
 }
